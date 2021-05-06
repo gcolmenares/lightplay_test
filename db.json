@@ -1,11 +1,48 @@
 {
+  "session": {
+      "id": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+      "email": "test_email@lightplay.com",
+      "firstName": "Lightplay",
+      "lastName": "App",
+      "username": "lightplay",
+      "profile_image_url": "https://rypplzz-services-dev.s3.amazonaws.com/arFile/2daba8ea-c1ca-41b9-a1ce-8633464ee50a.png",
+      "posts_counter": 20,
+      "following_counter": 98,
+      "followers_counter": 102
+  },
+
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "date": "12/31/20",
+      "icon_url": "https://rypplzz-services-dev.s3.amazonaws.com/arFile/6353bff2-ee37-4511-97dd-caadf7d7e77f.png",
+      "views_counter": 320,
+      "likes_counter": 120,
+      "address": "Los Angeles, CA",
+      "caption": "The tournament was epic! Here’s a look into how it all went down 😜 Special th…"
+    },
+    {
+      "date": "8h ago",
+      "icon_url": "https://rypplzz-services-dev.s3.amazonaws.com/arFile/e49d8560-58c0-429e-ab1b-2d7f1aee90bf.png",
+      "views_counter": 200,
+      "likes_counter": 32,
+      "address": "Los Angeles, CA",
+      "caption": "All the ladies if you feel me, help me sing it out! #beyonce 💕"
+    },
+    {
+      "date": "4d ago",
+      "icon_url": "https://rypplzz-services-dev.s3.amazonaws.com/arFile/4c6f31c4-9bb1-4116-8231-7afcaaa6a73d.png",
+      "views_counter": 43,
+      "likes_counter": 2,
+      "address": "Los Angeles, CA",
+      "caption": "y’all seen our new episode of Design Freestyle? #featured"
+    },
+    {
+      "date": "2d ago",
+      "icon_url": "https://rypplzz-services-dev.s3.amazonaws.com/arFile/e49d8560-58c0-429e-ab1b-2d7f1aee90bf.png",
+      "views_counter": 102,
+      "likes_counter": 45,
+      "address": "Los Angeles, CA",
+      "caption": "#fightclub #enlightenment #robertpaulson"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
